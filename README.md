@@ -1,6 +1,6 @@
 # :handbag: RAD Bag - The Reasonably Acceptable Distance Bag :mask:
 
-**2020 HighTechU Academy - Virtual Pilot** 
+**A Project Created during the 2020 HighTechU ECE Virtual Skills Academy Pilot** 
 
 ---
 
