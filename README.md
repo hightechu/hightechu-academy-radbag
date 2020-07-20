@@ -25,7 +25,9 @@
 
 ---
 
-## **Made with** TinkerCAD, Zoom, Slack, MURAL, and Google Slides
+### Made with
+TinkerCAD, Zoom, Slack, MURAL, and Google Slides
 
-## **Made by** Katrina, Nicholas, Michelle and Spencer
+### Made by
+Katrina, Nicholas, Michelle and Spencer
 
