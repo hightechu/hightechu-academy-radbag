@@ -7,21 +7,21 @@
 ## **3D Model**
 [Download the Model](/model) | [View the Model](https://www.tinkercad.com/things/alLhR3YjmSS-rad-bag-cad)
 
-![](/model/model.png)
+![](/img/model.png)
 
 ---
 
 ## **Circuit Design**
 [Download the Circuit](/circuit) | [View the Circuit]()
 
-![](/circuit/circuit.png)
+![](/img/circuit.png)
 
 ---
 
 ## **Pitch Presentation**
 [Download the Presentation](/pitch)
 
-![](/pitch/pitch.png)
+![](/img/pitch.png)
 
 ---
 
