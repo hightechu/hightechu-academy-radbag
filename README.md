@@ -1,25 +1,31 @@
-# RAD Bag - The Reasonably Acceptable Distance Bag :metal:
+# RAD Bag - The Reasonably Acceptable Distance Bag
 
 **2020 HighTechU Academy - Virtual Pilot** 
 
-## Live Demo
+---
 
-## Promo
+## **3D Model**
+[Download the Model](/model) | [View the Model]()
 
-## 3D Model 
+![](/model/model.png)
 
-## Circuit Design 
+---
 
-## Presentation
+## **Circuit Design**
+[Download the Circuit](/circuit) | [View the Circuit]()
 
-## Made with:
+![](/circuit/circuit.png)
 
-* TinkerCAD
+---
 
-## Made by:
+## **Pitch Presentation**
+[View the Presentation](/pitch)
 
-* Katrina
-* Nicholas 
-* Michelle
-* Spencer
+![](/pitch/pitch.png)
+
+---
+
+## **Made with** TinkerCAD, Zoom, Slack, MURAL, and Google Slides
+
+## **Made by** Katrina, Nicholas, Michelle and Spencer
 
