@@ -5,7 +5,7 @@
 ---
 
 ## **3D Model**
-[Download the Model](/model) | [View the Model]()
+[Download the Model](/model) | [View the Model](https://www.tinkercad.com/things/alLhR3YjmSS-rad-bag-cad)
 
 ![](/model/model.png)
 
@@ -19,7 +19,7 @@
 ---
 
 ## **Pitch Presentation**
-[View the Presentation](/pitch)
+[Download the Presentation](/pitch)
 
 ![](/pitch/pitch.png)
 
