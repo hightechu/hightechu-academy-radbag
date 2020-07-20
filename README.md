@@ -1,4 +1,4 @@
-# :handbag: RAD Bag - The Reasonably Acceptable Distance Bag :mask:
+# :handbag: The RAD Bag - Together but at a Reasonably Accepted Distance :mask:
 
 **A Project Created during the 2020 HighTechU ECE Virtual Skills Academy Pilot** 
 
