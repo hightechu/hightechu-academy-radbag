@@ -1,4 +1,4 @@
-# RAD Bag - The Reasonably Acceptable Distance Bag
+# :handbag: RAD Bag - The Reasonably Acceptable Distance Bag :mask:
 
 **2020 HighTechU Academy - Virtual Pilot** 
 
@@ -25,9 +25,9 @@
 
 ---
 
-### Made with
+### Made on :computer: using
 TinkerCAD, Zoom, Slack, MURAL, and Google Slides
 
-### Made by
+### Made with :heart: by
 Katrina, Nicholas, Michelle and Spencer
 
