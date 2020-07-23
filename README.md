@@ -5,21 +5,21 @@
 ---
 
 ## **3D Model**
-[Download the Model](/model) | [View the Model](https://www.tinkercad.com/things/alLhR3YjmSS-rad-bag-cad)
+[View the Model](https://www.tinkercad.com/things/alLhR3YjmSS-rad-bag-cad) | [Download the Model](/model)
 
 ![](/img/model.png)
 
 ---
 
 ## **Circuit Design**
-[Download the Circuit](/circuit) | [View the Circuit]()
+[View the Circuit]() | [Download the Circuit](/circuit)
 
 ![](/img/circuit.png)
 
 ---
 
 ## **Pitch Presentation**
-[Download the Presentation](/pitch)
+[View the Pitch](https://github.com/hightechu/hightechu-academy-radbag/blob/master/pitch/radbag-pitchdeck.pdf) | [Download the Pitch](/pitch)
 
 ![](/img/pitch.png)
 
