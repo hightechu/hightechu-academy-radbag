@@ -12,7 +12,7 @@
 ---
 
 ## **Circuit Design**
-[View the Circuit]() | [Download the Circuit](/circuit)
+[View the Circuit](https://www.tinkercad.com/things/63bYq8UGXOF) | [Download the Circuit](/circuit)
 
 ![](/img/circuit.png)
 
