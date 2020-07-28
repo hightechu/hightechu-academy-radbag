@@ -4,17 +4,17 @@
 
 ---
 
-## **3D Model**
-[View the Model](https://www.tinkercad.com/things/alLhR3YjmSS-rad-bag-cad) | [Download the Model](/model)
-
-![](/img/model.png)
-
----
-
 ## **Circuit Design**
 [View the Circuit](https://www.tinkercad.com/things/63bYq8UGXOF) | [Download the Circuit](/circuit)
 
 ![](/img/circuits.png)
+
+---
+
+## **3D Model**
+[View the Model](https://www.tinkercad.com/things/alLhR3YjmSS-rad-bag-cad) | [Download the Model](/model)
+
+![](/img/model.png)
 
 ---
 
