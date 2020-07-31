@@ -26,7 +26,7 @@
 ---
 
 ### </> on :computer: using
-TinkerCAD, Zoom, Slack, MURAL, and Google Slides
+[TinkerCAD](https://www.tinkercad.com), [Zoom](https://zoom.us/), [Slack](https://slack.com/), [MURAL](https://www.mural.co/), and [Google Slides](https://www.google.com/slides/about/)
 
 ### :hammer: with :heart: by
 Katrina, Nicholas, Michelle and Spencer
