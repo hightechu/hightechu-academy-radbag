@@ -28,6 +28,6 @@
 ### </> on :computer: using
 TinkerCAD, Zoom, Slack, MURAL, and Google Slides
 
-### Made with :heart: by
+### :hammer: with :heart: by
 Katrina, Nicholas, Michelle and Spencer
 
